@@ -11,12 +11,12 @@ The Student Record Management System is designed to store, manage, update, and r
 Managing student records manually is time-consuming, error-prone, and difficult to maintain. A digital solution is required to organize student data securely and efficiently.
 
 ##  Objectives
-✔️ Add Student Records  
-✔️ Update Student Information  
-✔️ Delete Student Records  
-✔️ Search Student Details  
-✔️ View All Records  
-✔️ Improve Data Management
+- Add Student Records  
+- Update Student Information  
+- Delete Student Records  
+- Search Student Details  
+- View All Records  
+- Improve Data Management
 
 
 ##  Features
@@ -26,5 +26,4 @@ Managing student records manually is time-consuming, error-prone, and difficult 
 - Accurate Student Information
 
 
-##  Developed By
-**RUBA VIGNESH S**
+
